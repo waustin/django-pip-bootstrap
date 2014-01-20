@@ -3,6 +3,7 @@ South==0.8.4
 coverage==3.7
 dj-database-url==0.2.2
 -e git://github.com/kennethreitz/dj-static.git@e244f5178f0bcaed508ebed3e9f628faed849ec5#egg=dj_static-master
+django-debug-toolbar==1.0.1
 django-dotenv==1.2
 django-extensions==1.2.5
 django-nose==1.2
